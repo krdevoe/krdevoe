@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @krdevoe
 - 👀I'm interested in using Python and R for machine learning applications.
--
--
-- 📫 How to reach me ...
 
 <!---
 krdevoe/krdevoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
